@@ -116,6 +116,13 @@
             background: var(--primary);
             color: var(--secondary);
             }
+            .btn-secondary a{
+                color: var(--primary);
+                text-decoration: none;
+            }
+            .btn-secondary a:hover{
+                color: var(--secondary);
+            }
             section{
                 padding: 6rem;
                 }
